@@ -1,0 +1,7 @@
+interface:
+  display_name: "Structured Research Workflow"
+  short_description: "Plan, validate, and document reproducible research paper projects."
+  default_prompt: "Use the structured-research-workflow skill to organize this research project."
+
+policy:
+  allow_implicit_invocation: true
